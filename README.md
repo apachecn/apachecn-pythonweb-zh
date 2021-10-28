@@ -19,6 +19,13 @@
 +   [Flask Web 开发即时入门](docs/ins-flask-web-dev/SUMMARY.md)
 +   [Flask 框架学习手册](docs/learn-flask-frame/SUMMARY.md)
 +   [精通 Flask](docs/master-flask/SUMMARY.md)
++   [构建 Django2 Web 应用](docs/build-dj2-web-app/SUMMARY.md)
++   [Django 1.1 测试和调试](docs/dj11-test-debug/SUMMARY.md)
++   [Django 设计模式最佳实践](docs/dj-design-ptn-best-prac/SUMMARY.md)
++   [Django 项目蓝图](docs/dj-proj-blueprint/SUMMARY.md)
++   [Django 入门指南](docs/get-start-dj/SUMMARY.md)
++   [Django Web 开发学习手册](docs/learn-dj-web-dev/SUMMARY.md)
++   [精通 Django](docs/master-dj/SUMMARY.md)
 
 ## 贡献指南
 

@@ -26,6 +26,8 @@
 +   [Django 入门指南](docs/get-start-dj/SUMMARY.md)
 +   [Django Web 开发学习手册](docs/learn-dj-web-dev/SUMMARY.md)
 +   [精通 Django](docs/master-dj/SUMMARY.md)
++   [构建 Python 无服务器应用](docs/build-svrless-py-websvc-zappa/docs/build-svrless-app-py/SUMMARY.md)
++   [使用 Zappa 构建 Python 无服务器 Web 服务](docs/build-svrless-py-websvc-zappa/SUMMARY.md)
 
 ## 贡献指南
 
